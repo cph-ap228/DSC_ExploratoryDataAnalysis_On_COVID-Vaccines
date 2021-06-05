@@ -1,5 +1,13 @@
 ### BigProject_DSC - Exploratory Data Analysis on COVID
 
+#### Required packages to run: 
+
+Plotly, Numpy, Pandas, Datetime
+
+#### ✔️ GitHub shows static image of the HTML/JavaScript that makes up Plotly Visualisations 
+To view the notebook properly use this link: 
+
+https://nbviewer.jupyter.org/github/cph-ap228/DSC_ExploratoryDataAnalysis_On_COVID-Vaccines/blob/master/BigProject_COVID.ipynb
 ___________________________________
 ## ✔️ Idea: Exploratory Data Analysis on the severity of COVID parameters and Vaccination statistics.
 ### Focus of *interest*:
@@ -10,7 +18,7 @@ It's first and foremost extremely relevant. An Exploratory Data Analysis on this
 ### Null Hypothesis: 
 Vaccines do not have any effect on decreasing the rate of new infections or death rates. 
 
-### Alternative Hypothesis
+### Alternative Hypothesis:
 Vaccines do in fact have an effect on slowing down the rate of new infections. 
 
 ### Furthermote other questions arise:
@@ -45,7 +53,9 @@ Features of Data Set #2 :
 ##### Location, Date, Type of Vaccine, Country, ISO Code for Country, Total # Vaccinations, # People Vaccinated (1 Shot), # People Fully Vaccinated, # Daily Vaccinations Raw Data, # Daily Vaccinations, # Total Vaccinations per Hundred. 
 ___________________________________
 #### 2. Integrate the sources by either ETL or an ELT process
-Data Cleaning, Preprocessing and Visualization is done in the current Notebook file: BigProject_COVID.ipynb 
+Whole solution incl. Data Cleaning, Preprocessing and Visualization is done in the current Notebook file: 
+
+BigProject_COVID.ipynb 
 ___________________________________
 #### 3. Design a Data Story or Data Processing Scenario 
 #### Data logistics
@@ -69,7 +79,7 @@ The technology stack utilized is as followed:
 - Numpy, used for array manipulation and vectoring for scientific computing, it's extensively used in this case for analytics. 
 - Pandas, a library used extensively for data science as it is just as versatile as Numpy to explore data structures and functions to manipulate structured data, as I am doing in this case. 
 
-Python 3.0 within Jupyter Notebook as IDE and Presentational tool. 
+Python 3.6.8 within Jupyter Notebook as IDE and Presentational tool. 
 ___________________________________
 # Stage 3: 
 ## Hypothesis Testing 
@@ -83,7 +93,9 @@ Based on current evidence and data availability, there is at the time of when th
 Based on the data logistics and sources, the evidence found and concluded is set to be true, but not final as it is a cumulative result.
 
 #### 4. Create the second prototype of your data science story.
-The protorype of the data story is uploaded as a PDF on this repository: DataStory - EDA...pdf
+The protorype of the data story is uploaded as a PDF on this repository: 
+
+DataStory - EDA of COVID and Vaccine Progression.pdf
 
 __________________________________
 # Stage 4
@@ -93,6 +105,8 @@ __________________________________
 The project is conducted by using Plotly Graph Objects and Plotly Express, which create immersive hovertext statistics. 
 Other measures such as heatmaps and perhaps AR/VR technologies could also be used to spawn in statistics through 3D environments or put in place in the real world to better immersify.
 I believe that the data is more convincing in a more explorable and open to conclusions in this way. Statistical hovertext-bar plots have been used, as well as choropleth maps as an example shown here (and are interactive if used in the Jupyter Notebook file): 
+
+![alt text](https://github.com/cph-ap228/DSC_ExploratoryDataAnalysis_On_COVID-Vaccines/blob/master/Image%20Example/Choropleth.png)
 
 #### 2. Elaborate on the compliance of the solution with data science ethical norms and best practices.
 I believe being critical and unbiased in data logistics, formatting and data preparation/cleaning will yield better and more correct argumented results.
