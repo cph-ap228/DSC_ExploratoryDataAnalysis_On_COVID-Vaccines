@@ -85,6 +85,9 @@ ___________________________________
 ## Hypothesis Testing 
 
 #### 1. Visualise and interpret a model to support your null hypothesis.
+Model is presented on the last graph on the last page of the Data Story, found in file: 
+
+DataStory - EDA of COVID and Vaccine Progression.pdf
 
 #### 2. Search for evidence to reject it.
 Based on current evidence and data availability, there is at the time of when the data has been explored nothing to reject it at this moment, as the conclusion and argumentation for my null hypothesis states.
@@ -93,7 +96,7 @@ Based on current evidence and data availability, there is at the time of when th
 Based on the data logistics and sources, the evidence found and concluded is set to be true, but not final as it is a cumulative result.
 
 #### 4. Create the second prototype of your data science story.
-The protorype of the data story is uploaded as a PDF on this repository: 
+The prototype of the data story is uploaded as a PDF on this repository: 
 
 DataStory - EDA of COVID and Vaccine Progression.pdf
 __________________________________
