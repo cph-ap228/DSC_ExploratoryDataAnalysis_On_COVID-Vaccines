@@ -96,7 +96,6 @@ Based on the data logistics and sources, the evidence found and concluded is set
 The protorype of the data story is uploaded as a PDF on this repository: 
 
 DataStory - EDA of COVID and Vaccine Progression.pdf
-
 __________________________________
 # Stage 4
 ## Immersive Analytics and Visualisation
